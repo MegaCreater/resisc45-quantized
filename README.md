@@ -6,6 +6,10 @@ RESISC45 dataset is a publicly available benchmark for Remote Sensing Image Scen
 * [orginal image](https://github.com/MegaCreater/resisc45/blob/main/watermarks.zip): Contains orginal images (1400 images) of airplane and airport class from [RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) dataset. 
 * [quantize images](https://github.com/MegaCreater/resisc45/blob/main/qWatermarks.zip): Contains grayscaled (1400 images of size 128x128) quantize (to 64 values) images of airplane and airport class from [RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) dataset. 
 
+## Image quantize source code: 
+
+[Color Quantization using K-Means](https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html)
+
 ## About Orginal Data 
 Homepage: http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
