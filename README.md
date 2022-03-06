@@ -3,7 +3,7 @@ RESISC45 dataset is a publicly available benchmark for Remote Sensing Image Scen
 
 ## About Data 
 
-* [orginal image]:(https://github.com/MegaCreater/resisc45/blob/main/watermarks.zip): Contains orginal images (1400 images) of airplane and airport class from [RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) dataset. 
+* [orginal image](https://github.com/MegaCreater/resisc45/blob/main/watermarks.zip): Contains orginal images (1400 images) of airplane and airport class from [RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) dataset. 
 * [quantize images](https://github.com/MegaCreater/resisc45/blob/main/qWatermarks.zip): Contains grayscaled (1400 images of size 128x128) quantize (to 64 values) images of airplane and airport class from [RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) dataset. 
 
 ## About Orginal Data 
